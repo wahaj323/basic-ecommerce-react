@@ -11,7 +11,7 @@ const Footer = () => {
               href="/"
               className="text-white text-lg font-bold tracking-wide hover:text-indigo-300 transition-colors duration-300"
             >
-              MyApp
+              Techo
             </a>
           </div>
 
@@ -41,7 +41,7 @@ const Footer = () => {
         {/* Copyright */}
         <div className="mt-4 text-center">
           <p className="text-gray-400 text-sm">
-            &copy; {new Date().getFullYear()} MyApp. All rights reserved.
+            &copy; {new Date().getFullYear()} Techo. All rights reserved.
           </p>
         </div>
       </div>

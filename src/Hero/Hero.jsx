@@ -9,10 +9,11 @@ const Hero = () => {
     >
       {/* Optional content inside the div */}
       <div className="h-full flex items-center justify-center">
-      <div className="backdrop-blur-md rounded-full px-10 py-6">
+        <div className="backdrop-blur-md rounded-full px-10 py-6">
           <h1 className="text-white text-4xl font-bold text-center">Welcome to <br />Techo</h1>
         </div>
       </div>
+      
     </div>
   )
 }
